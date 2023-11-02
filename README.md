@@ -1,2 +1,2 @@
 # Delta-Demo
-For Learning purpose.
+For Learning purpose..
